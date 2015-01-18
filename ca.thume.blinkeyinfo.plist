@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>ca.thume.blinkeyinfo</string>
+    <key>ProgramArguments</key>
+    <array>
+      <string>/usr/local/bin/ruby</string>
+      <string>/Users/tristan/Box/Dev/Projects/BlinKeyInfo/blinkeyinfo.rb</string>
+    </array>
+    <key>StartInterval</key>
+    <integer>60</integer>
+</dict>
+</plist>

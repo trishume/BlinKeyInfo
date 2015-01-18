@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rb-blink1 (0.0.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rb-blink1

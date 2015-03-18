@@ -2,9 +2,13 @@ GEM
   remote: https://rubygems.org/
   specs:
     rb-blink1 (0.0.7)
+    usagewatch (0.0.7)
+    usagewatch_ext (0.2.0)
+      usagewatch (~> 0.0.6)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   rb-blink1
+  usagewatch_ext
